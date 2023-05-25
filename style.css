@@ -1,0 +1,30 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600&display=swap');
+
+.grid{
+    border: 1px solid pink;
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    grid-template-rows: 600px;
+}
+
+h3{color: aliceblue;}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
+
+
+
+h5{
+    color : rgb(14, 107, 247);
+    font-family: 'Noto Serif KR', serif;
+    font-size:40px;
+}
+
+body{
+    font-family: 'Noto Serif KR', serif;
+}
